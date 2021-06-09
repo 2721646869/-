@@ -1,0 +1,50 @@
+﻿  main.cpp
+  practice1.cpp
+C:\Users\惠普\Desktop\新建文件夹\Projects\Projects\project_1\practice1.cpp(157,11): warning C4477: “scanf_s”: 格式字符串“%c”需要类型“unsigned int”的参数，但可变参数 3 拥有了类型“int *”
+C:\Users\惠普\Desktop\新建文件夹\Projects\Projects\project_1\practice1.cpp(157,11): message : 此参数用作缓冲区大小
+C:\Users\惠普\Desktop\新建文件夹\Projects\Projects\project_1\practice1.cpp(157,11): warning C4473: “scanf_s”: 没有为格式字符串传递足够的参数
+C:\Users\惠普\Desktop\新建文件夹\Projects\Projects\project_1\practice1.cpp(157,11): message : 占位符和其参数预计 4 可变参数，但提供的却是 3 参数
+C:\Users\惠普\Desktop\新建文件夹\Projects\Projects\project_1\practice1.cpp(157,11): message : 缺失的可变参数 4 为格式字符串“%d”所需
+  practice2.cpp
+C:\Users\惠普\Desktop\新建文件夹\Projects\Projects\project_2\practice2.cpp(86,9): warning C4101: “num”: 未引用的局部变量
+  practice3.cpp
+  41-约瑟夫环.cpp
+C:\Users\惠普\Desktop\新建文件夹\Projects\Projects\project_4\41-约瑟夫环.cpp(14,11): warning C4477: “scanf_s”: 格式字符串“%s”需要类型“unsigned int”的参数，但可变参数 2 拥有了类型“size_t”
+C:\Users\惠普\Desktop\新建文件夹\Projects\Projects\project_4\41-约瑟夫环.cpp(14,11): message : 此参数用作缓冲区大小
+  41T-约瑟夫密码.cpp
+  42-字符串分类统计.cpp
+  42T-字符串分类统计（不用数组）.cpp
+  43-单词排序（插入排序）.cpp
+  43T-单词排序（冒泡排序）cpp.cpp
+  4T-数字查找.cpp
+  practice4.cpp
+  51-学生信息登记管理.cpp
+  52-火车售票系统.cpp
+C:\Users\惠普\Desktop\新建文件夹\Projects\Projects\project_5\52-火车售票系统.cpp(419,10): warning C4129: “%”: 不可识别的字符转义序列
+C:\Users\惠普\Desktop\新建文件夹\Projects\Projects\project_5\52-火车售票系统.cpp(419,10): warning C4477: “printf”: 格式字符串“%s”需要类型“char *”的参数，但可变参数 2 拥有了类型“int”
+C:\Users\惠普\Desktop\新建文件夹\Projects\Projects\project_5\52-火车售票系统.cpp(419,10): warning C4313: “printf”: 格式字符串中的“%s”与“int”类型的参数 2 冲突
+  5T-电话号码管理系统.cpp
+C:\Users\惠普\Desktop\新建文件夹\Projects\Projects\project_5\5T-电话号码管理系统.cpp(18,13): warning C4101: “n”: 未引用的局部变量
+  practice5.cpp
+  61-约瑟夫问题（指针）.cpp
+  62-学生信息登记管理（链表）.cpp
+  63-贪吃蛇游戏.cpp
+C:\Users\惠普\Desktop\新建文件夹\Projects\Projects\project_6\63-贪吃蛇游戏.cpp(100,18): warning C4838: 从“int”转换到“SHORT”需要收缩转换
+C:\Users\惠普\Desktop\新建文件夹\Projects\Projects\project_6\63-贪吃蛇游戏.cpp(100,22): warning C4838: 从“int”转换到“SHORT”需要收缩转换
+  6T-银行排队.cpp
+  正在生成代码...
+C:\Users\惠普\Desktop\新建文件夹\Projects\Projects\project_6\63-贪吃蛇游戏.cpp(306): warning C4715: “Jwall”: 不是所有的控件路径都返回值
+C:\Users\惠普\Desktop\新建文件夹\Projects\Projects\project_6\63-贪吃蛇游戏.cpp(322): warning C4715: “Jsnake”: 不是所有的控件路径都返回值
+  正在编译...
+  practice6.cpp
+  71-简单计数器.cpp
+  72-学生学籍管理系统（文件）.cpp
+  7T-图书管理系统.cpp
+  practice7.cpp
+  80-测试数据库连接cpp.cpp
+  81-MySQL计数器.cpp
+  82-MySQL学生管理.cpp
+  8T-MySQL订单管理系统.cpp
+  practice8.cpp
+  正在生成代码...
+  Projects.vcxproj -> C:\Users\惠普\Desktop\新建文件夹\Projects\x64\Debug\Projects.exe
